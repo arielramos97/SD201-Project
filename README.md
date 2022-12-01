@@ -11,7 +11,7 @@ In this project, we utilised several machine and deep learning algorithms to pre
 
 * Ariel R. Ramos Vela
 * Wilmar Quiroga
-* Gustavo Teixeira
+* Gustavo Acioli
 * Mohamed Khair 
 ```
 
